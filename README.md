@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile, I'm Verónica 😃</h1>
 <h3 align="center">A passionate girl who likes computers and IT.</h3>
-
+<h2 align="center"> Check out my <a href="https://tia-porota.github.io/portfolio">portfolio</a></h2>
 <h3 align="left">Connect with me: </h3>
 <p align="left"> veroviedo935@gmail.com
 </p>
